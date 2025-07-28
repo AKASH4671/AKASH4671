@@ -26,9 +26,9 @@
 ### 🧠 Skills Snapshot
 | Finance & Tools | AI / ML & Programming | Productivity |
 |-----------------|-----------------------|--------------|
-| Financial Modeling (DCF, LBO, M&A) | Python, Pandas, NumPy, Scikit-learn | Excel, PowerPoint |
+| Financial Modeling (DCF, LBO, M&A) (_learning_) | Python, Pandas, NumPy, Scikit-learn | Excel, PowerPoint |
 | Valuation & Risk Analysis | Machine Learning, Deep Learning | Jupyter, Git/GitHub |
-| Portfolio Theory, Sharpe Ratio | Time Series (LSTM, ARIMA), Autoencoders | LaTeX, Markdown |
+| Portfolio Theory, Sharpe Ratio | Time Series (LSTM, ARIMA), Autoencoders | LaTeX, Markdown(_learning_) |
 | Bloomberg Terminal (BMC) | NLP, Sentiment Analysis | VS Code |
 
 ---
