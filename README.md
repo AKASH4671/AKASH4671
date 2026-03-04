@@ -42,7 +42,7 @@
 ### 🏆 Certifications
 - [x] 📘 **Financial Markets** – Yale (Coursera)
 - [ ] 🎓 **FMVA® – Financial Modeling & Valuation Analyst** (Upcoming)
-- [ ] 💼 **Bloomberg Market Concepts (BMC)** 
+- [x] 💼 **Bloomberg Market Concepts (BMC)** 
 
 ---
 
